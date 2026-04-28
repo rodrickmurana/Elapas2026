@@ -1,0 +1,6 @@
+@ElapasSucre_HostAddress = http://localhost:5052
+
+GET {{ElapasSucre_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
